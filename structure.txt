@@ -1,0 +1,14 @@
+seo-analyzer/
+├── client/
+│   ├── pages/
+│   │   └── index.js
+│   ├── styles/
+│   │   └── globals.css
+│   └── package.json
+│
+├── server/
+│   ├── index.js
+│   ├── seoAnalyzer.js
+│   └── package.json
+│
+└── README.md
